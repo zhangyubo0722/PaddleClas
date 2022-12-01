@@ -34,7 +34,7 @@ UniFormer 是一种新的视觉 Transformer 网络，可以用作计算机视觉
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | UniFormer_small_in1k    | 0.8294 | 0.9631 | 0.829 | 0.962 | 3.4  | 22   |
 | UniFormer_small_plus_in1k   | 0.8329 | 0.9656 | 0.833 | 0.965 | 3.9  | 24   |
-| UniFormer_small_plus_dim64_in1k    | 0.8325 | 0.9649 | 0.832 | 4.0 |  | 24   |
+| UniFormer_small_plus_dim64_in1k    | 0.8325 | 0.9649 | 0.832 | 0.964 | 4.0 | 24   |
 | UniFormer_base_in1k   | 0.8376 | 0.9672 | 0.839 | - | 7.8 | 49   |
 | UniFormer_base_ls_in1k   | 0.8398 | 0.9675 | 0.839 | 0.967 | 7.8 | 50   |
 
